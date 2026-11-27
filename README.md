@@ -352,7 +352,7 @@ fall-detection-system/
 ├── requirements.txt
 ├── .gitignore
 ├── data/
-│   ├── raw/                  # Downloaded subject CSVs (not committed)
+│   ├── raw/                  # Downloaded subject CSVs
 │   └── processed/            # Generated preprocessing artifacts
 ├── notebooks/
 ├── src/
